@@ -1,5 +1,5 @@
 # Predict Student Performance from Game Play Solution
-This is the 4th place solution for the Kaggle competition [Predict Student Performance from Game Play](https://www.kaggle.com/competitions/predict-student-performance-from-game-play). Below you can find a outline of how to reproduce my solution, which is described in more detail in [this](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/discussion/420349) post.
+This is the 4th place solution for the Kaggle competition [Predict Student Performance from Game Play](https://www.kaggle.com/competitions/predict-student-performance-from-game-play), which is described in more detail in [this](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/discussion/420349) post. Below you can find a outline of how to reproduce it.
 
 ## Contents
 - `models` : the trained models
